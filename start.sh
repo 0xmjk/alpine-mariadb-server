@@ -44,5 +44,5 @@ EOF
     sleep 3
 fi
 
-mysqld 
+exec mysqld_safe  
 
